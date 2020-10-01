@@ -1,2 +1,2 @@
 # project1.html
-this is my full responsive website by using HTML and CSS
+here we working on full responsive website using HTML and CSS
